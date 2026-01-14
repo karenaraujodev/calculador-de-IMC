@@ -16,10 +16,9 @@ body{
    text-align: center;
 }
 header{
-    padding: 20px;
+    padding: 25px;
     background-color: var(--brand-color);
     color: var(--white) ;
-    text-align: center;
 }
 h1{
     padding-bottom: 8px;
